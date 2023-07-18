@@ -91,3 +91,6 @@ python scripts/ASE/FLO_ASE_gzsl.py
 ```
 
 The performance of method MSP is shown together with ASE.
+
+## Acknowledgements
+[TF-VAEGAN](https://github.com/akshitac8/tfvaegan) provides a ZSL framework.
